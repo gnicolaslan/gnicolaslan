@@ -1,12 +1,11 @@
-<div id="header" style="margin: auto;">
-    <img src="https://thumbs.dreamstime.com/b/programming-coding-source-code-screen-abstract-software-developer-computer-script-52168479.jpg"
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"
         alt="img">
+        <h2 align="center">Hola! 👋 Soy Gabriel Nicolás</h2>
+        <h4>Un entusiasta de la programación, con un enfoque en el desarrollo front-end. Me encanta trabajar en los detalles y en la búsqueda de la simetría visual que hacen que los proyectos luzcan impecables.</h4>
 </div>
 
 
-
-
-<!-- # Hi there! 👋 -->
 
 <!--
 **gnicolaslan/gnicolaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
