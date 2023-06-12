@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img width="200" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="img">
+    <img src="https://i.postimg.cc/90R3Q2Wj/2.jpg" alt="img">
     <h1 align="center">Hola! 👋 Soy Gabriel Nicolás</h1>
     <h4>Un entusiasta de la programación, con un enfoque en el desarrollo front-end.<br>Me encanta trabajar en los detalles y en la búsqueda de la simetría visual que hacen que los proyectos luzcan impecables.</b></h4>
 </div>
