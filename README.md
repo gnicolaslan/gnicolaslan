@@ -21,10 +21,10 @@
 
 ---
 ### 💬Sobre Mi :
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👾 Tengo 28 años, soy programador fullstack y diseñador gráfico ...
+- 🇦🇷 Buenos Aires, Argentina ⭐⭐⭐
+- 📫 Contactame a través de gabrielnicolas.dg@gmail.com
+- 🌱 Actualmente estoy aprendiendo React.js
 
 <!--
 **gnicolaslan/gnicolaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
