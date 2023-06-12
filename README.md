@@ -39,10 +39,10 @@
 ---
 
 ### 🔥 Estadísticas :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gnicolaslan&theme=gruvbox-duo&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gnicolaslan&theme=gruvbox&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![gnicolaslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnicolaslan&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnicolaslan&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnicolaslan&theme=gruvbox)
 
 
