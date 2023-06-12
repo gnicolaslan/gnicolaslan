@@ -22,7 +22,7 @@
 ---
 ### 💬Sobre Mi :
 - 👾 Tengo 28 años, soy programador fullstack y diseñador gráfico ...
-- 🇦🇷 Buenos Aires, Argentina ⭐⭐⭐
+- 🏠 Buenos Aires, Argentina ⭐⭐⭐
 - 📫 Contactame a través de gabrielnicolas.dg@gmail.com
 - 🌱 Actualmente estoy aprendiendo React.js
 
