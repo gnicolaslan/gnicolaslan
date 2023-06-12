@@ -6,16 +6,16 @@
 <br>
 <div align="center">
     <a href="https://github.com/gnicolaslan">
-        <img src="https://img.shields.io/github/followers/gnicolaslan?color=0B8AFA&logo=github&style=for-the-badge" alt="">
+        <img src="https://img.shields.io/github/followers/gnicolaslan?color=FEB240&logo=github&style=for-the-badge" alt="">
     </a>
     <a href="https://www.linkedin.com/in/gnicolaslan/">
-        <img src="https://img.shields.io/badge/LinkedIn-0B8AFA?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/LinkedIn-FEB240?style=for-the-badge&logo=linkedin&logoColor=black" alt="">
     </a>
     <a href="https://www.instagram.com/gnicolaslan">
-        <img src="https://img.shields.io/badge/Instagram-0B8AFA?style=for-the-badge&logo=instagram&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Instagram-FEB240?style=for-the-badge&logo=instagram&logoColor=black" alt="">
     </a>
     <a href="https://www.behance.net/gabrielnicolasLNZT">
-        <img src="https://img.shields.io/badge/Behance-0B8AFA?style=for-the-badge&logo=behance&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Behance-FEB240?style=for-the-badge&logo=behance&logoColor=black" alt="">
     </a>
 </div>
  
@@ -26,11 +26,21 @@
 - 📫 Contactame a través de gabrielnicolas.dg@gmail.com
 - 🌱 Actualmente estoy aprendiendo React.js
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+### 🛠️ Lenguajes y Herramientas :
+<code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" alt="html" src="https://img.freepik.com/iconos-gratis/html5_318-903450.jpg"></code>
+<code><img height="25" alt="css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"></code>
+<code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" alt="mysql" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="25" alt="sql" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg"></code>
+<code><img height="25" alt="bs" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg"></code>
 
 ---
+
+### 🔥 Estadísticas :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gnicolaslan&theme=gruvbox-duo&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+![gnicolaslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnicolaslan&show_icons=true&theme=radical)
+
 
